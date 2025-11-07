@@ -1,16 +1,16 @@
 # Web components benchmark
 
-[Live results](https://vogloblinsky.github.io/web-components-benchmark/)
+[Live results](https://darthvictor.github.io/web-components-benchmark/)
 
 Benchmarks of libraries and implementation of Web Components.
 
 The benchmark consists of two different applications :
 
--   TodoMVC implementation forked from [shprink/web-components-todo](https://github.com/shprink/web-components-todo)
+- TodoMVC implementation forked from [shprink/web-components-todo](https://github.com/shprink/web-components-todo)
 
 ![screenshot_todomvc](common/screenshot_todomvc.png)
 
--   Pascal triangle
+- Pascal triangle
 
 ![screenshot_pascal](common/screenshot_pascal.png)
 
@@ -71,8 +71,8 @@ In another tab
 
 ## TodoMVC
 
-https://vogloblinsky.github.io/web-components-benchmark/#todo
+https://darthvictor.github.io/web-components-benchmark/#todo
 
 ## Pascal triangle
 
-https://vogloblinsky.github.io/web-components-benchmark/#pascal
+https://darthvictor.github.io/web-components-benchmark/#pascal
